@@ -2,7 +2,7 @@
 
 Explore the dynamic sales landscape of Amazon Global Superstore from 2012 to 2015 through a concise yet insightful Power BI snapshot. Gain valuable insights into sales trends, regional performance, segment-wise distribution, and profitability metrics.
 
-##Objectives:
+**Objectives:
 
 1.Analyze sales performance over the years.
 2.Identify key regions contributing to sales.
@@ -10,7 +10,7 @@ Explore the dynamic sales landscape of Amazon Global Superstore from 2012 to 201
 4.Evaluate profitability by customer and product.
 5.Provide insights for strategic decision-making.
 
-##Highlights:
+**Highlights:
 
 1.Sales Symphony:
 Ride the waves of sales evolution, witnessing Amazon's meteoric rise from 2012 to 2015.
@@ -23,13 +23,13 @@ Traverse the globe with Amazon's market penetration map, showcasing its unrivale
 5.Profit Pathways: 
 Uncover the golden paths of profitability, where top customers and products reign supreme, shaping Amazon's profit landscape.
 
-##Datasets:
+**Datasets:
 1.The dataset comprises of information of 51,291 customers and is coined of 25 columns.
 2.The dataset used for the analysis comprises of following columns:
   (i)   Customer Name: The individuals under whose nee the order has been placed.
   (ii)  Customer Id: A separate and unique id is to be provided to all the customer.
   (iii) Order Date: The timeframe in which the order has been placed.
 
-##Takeaway:
+**Takeaway:
 
 Embark on a journey of discovery and insight with Amazon Global Superstore's sales marvels. Harness these insights to chart your course towards unprecedented success in the ever-expanding global marketplace.
